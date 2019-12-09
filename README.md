@@ -6,3 +6,5 @@ These Web APIs give occupations by keyword and associated details by entering an
 <a href="https://www.careeronestop.org/Developers/WebAPI/Occupation/get-occupation-details.aspx">Get Occupation Details</a>
 
 <a href="https://www.careeronestop.org/Developers/WebAPI/Occupation/list-occupations-by-keyword.aspx"> List Occupations by Keyword</a>
+
+<a href="https://www.careeronestop.org/Developers/WebAPI/Occupation/list-occupations-skills-match.aspx"> List Occupations by Skills Match</a>
